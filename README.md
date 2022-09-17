@@ -4,15 +4,24 @@ NLW eSports, aplicativo para encontrar seu duo para os jogos, disponível para v
 
 ## Utilização
 
+### Backend
 Navegue até a pasta "server" e utilize o seguinte comando:
 
 ```npm run dev``` <br>
 
 Para rodar o backend da aplicação.
 
+### Frontend
 Navegue até a pasta "web" e utilize o seguinte comando:
 
 ```npm run dev``` <br>
+
+Para rodar o frontend da aplicação.
+
+### Mobile
+Navegue até a pasta "mobile" e utilize o seguinte comando:
+
+```expo start``` <br>
 
 Para rodar o frontend da aplicação.
 
