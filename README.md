@@ -2,6 +2,12 @@
 
 NLW eSports, aplicativo para encontrar seu duo para os jogos, disponível para versão web e mobile.
 
+*Web*
+![](./web.PNG)
+
+*Mobile*
+![](./mobile.JPG)
+
 ## Utilização
 
 ### Backend
